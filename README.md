@@ -23,6 +23,7 @@ Règle de Cochran respectée (fréquences théoriques ≥ 5)
 * La p-value étant inférieure à 0,05, nous rejetons l'hypothèse d'indépendance.
 
 *✅ Conclusion*
+
 Il existe une dépendance significative entre le sexe et la couleur des cheveux.
 
 ➡️ Le sexe des individus influence la répartition des couleurs de cheveux dans cet échantillon.
