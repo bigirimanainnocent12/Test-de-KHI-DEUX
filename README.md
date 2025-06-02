@@ -14,6 +14,7 @@ Le G-test (test du log-vraisemblance), considéré comme plus puissant que le te
 Échantillon aléatoire
 Appartenance unique à chaque modalité
 Règle de Cochran respectée (fréquences théoriques ≥ 5)
+
 *📈 Résultats*
 Statistique de test : G = 10,7555
 Degrés de liberté : 4
