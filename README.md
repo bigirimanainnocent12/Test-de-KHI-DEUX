@@ -7,20 +7,20 @@ Couleur des cheveux : Blond, Roux, Châtain, Brun, Noir
 * Test utilisé :
 Le G-test (test du log-vraisemblance), considéré comme plus puissant que le test du khi-deux classique, a été appliqué pour évaluer l’indépendance entre les deux variables.
 
-* Seuil de signification : 5 % (α = 0,05)
+* Seuil de signification : 5 % (α = 0.05)
 
-* Conditions vérifiées :
+* Conditions vérifiées:
 
    * Échantillon aléatoire
    * Appartenance unique à chaque modalité
    * Règle de Cochran respectée (fréquences théoriques ≥ 5)
 
-*📈 Résultats:*
+*📈 Résultats*
 
     * Statistique de test : G = 10,7555
     * Degrés de liberté : 4
     * p-value : 0,0295
-    * La p-value étant inférieure à 0,05, nous rejetons l'hypothèse d'indépendance.
+    * La p-value étant inférieure à 0.05, nous rejetons l'hypothèse d'indépendance.
 
 *✅ Conclusion*
 
