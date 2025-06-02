@@ -27,3 +27,5 @@ Il existe une dépendance significative entre le sexe et la couleur des cheveux.
 
 ➡️ Le sexe des individus influence la répartition des couleurs de cheveux dans cet échantillon.
 
+Le code de ce projet se trouve dans le fichier Code_Test_de_khi_deux.ipynb.
+
