@@ -17,10 +17,10 @@ Le G-test (test du log-vraisemblance), considéré comme plus puissant que le te
 
 *📈 Résultats*
 
-    * Statistique de test : G = 10,7555
-    * Degrés de liberté : 4
-    * p-value : 0,0295
-    * La p-value étant inférieure à 0.05, nous rejetons l'hypothèse d'indépendance.
+  * Statistique de test : G = 10,7555
+  * Degrés de liberté : 4
+  * p-value : 0,0295
+  * La p-value étant inférieure à 0.05, nous rejetons l'hypothèse d'indépendance.
 
 *✅ Conclusion*
 
